@@ -1,0 +1,1547 @@
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000002.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000000.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000006.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000004.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000081.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000064.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000076.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000043.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000071.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000032.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000043.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000004.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000059.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000052.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000004.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000014.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000022.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000031.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000002.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000011.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000026.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000054.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000031.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000069.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000031.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000056.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000043.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000018.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000054.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000040.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000032.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000087.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000081.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000006.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000062.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000080.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000028.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000008.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000061.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000076.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000043.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000048.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000063.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000071.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000007.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000016.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000078.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000023.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000067.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000036.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000032.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000024.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000054.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000025.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000050.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000005.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000027.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000001.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000011.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000047.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000014.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000074.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000015.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000032.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000010.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000011.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000010.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000046.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000082.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000077.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000043.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000077.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000044.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000041.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000023.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000055.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000044.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000028.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000081.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000039.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000043.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000034.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000051.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000055.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000087.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000063.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000043.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000048.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000042.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000037.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000065.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000054.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000020.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000054.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000036.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000077.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000053.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000087.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000024.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000014.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000086.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000012.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000014.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000016.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000075.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000044.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000028.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000087.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000003.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000022.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000005.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000026.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000086.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000000.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000046.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000019.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000047.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000031.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000049.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000080.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000018.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000071.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000070.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000084.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000060.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000035.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000034.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000043.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000024.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000025.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000008.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000000.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000078.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000019.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000027.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000062.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000041.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000043.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000040.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000082.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000039.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000053.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000052.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000007.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000010.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000024.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000038.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000073.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000040.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000019.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000057.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000085.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000079.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000075.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000021.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000052.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000074.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000087.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000047.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000032.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000023.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000023.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000046.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000075.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000004.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000019.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000075.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000055.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000052.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000052.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000052.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000027.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000020.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000074.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000064.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000027.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000008.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000000.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000047.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000078.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000030.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000031.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000037.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000001.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000073.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000082.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000041.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000023.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000068.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000018.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000041.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000022.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000075.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000064.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000057.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000030.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000087.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000028.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000079.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000053.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000025.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000011.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000064.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000030.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000055.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000045.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000020.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000066.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000023.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000028.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000074.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000040.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000077.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000065.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000060.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000078.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000047.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000062.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000070.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000013.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000004.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000032.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000042.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000026.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000028.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000006.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000037.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000056.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000019.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000032.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000025.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000032.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000075.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000082.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000075.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000022.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000086.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000080.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000012.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000086.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000063.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000053.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000009.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000021.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000072.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000077.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000082.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000054.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000047.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000007.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000021.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000012.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000040.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000071.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000064.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000060.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000064.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000062.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000081.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000004.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000020.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000011.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000008.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000057.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000012.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000020.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000075.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000032.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000001.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000085.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000050.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000062.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000023.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000018.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000078.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000064.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000044.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000015.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000006.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000083.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000016.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000004.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000028.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000051.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000011.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000014.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000057.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000069.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000039.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000035.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000028.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000036.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000068.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000046.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000044.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000041.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000051.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000045.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000078.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000074.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000040.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000049.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000016.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000036.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000009.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000051.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000020.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000067.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000065.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000050.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000000.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000079.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000034.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000063.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000015.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000059.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000051.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000036.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000022.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000074.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000029.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000085.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000024.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000000.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000079.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000045.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000022.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000081.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000001.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000005.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000073.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000066.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000038.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000034.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000076.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000032.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000070.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000066.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000042.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000058.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000006.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000066.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000003.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000029.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000055.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000020.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000024.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000019.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000087.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000026.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000000.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000024.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000035.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000084.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000082.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000017.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000039.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000000.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000046.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000078.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000080.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000009.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000054.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000020.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000078.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000081.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000083.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000038.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000071.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000019.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000011.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000042.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000008.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000030.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000044.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000001.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000071.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000015.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000064.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000084.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000015.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000019.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000000.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000053.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000068.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000075.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000022.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000043.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000059.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000036.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000032.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000082.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000061.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000059.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000039.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000055.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000073.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000046.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000045.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000058.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000035.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000024.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000041.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000036.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000080.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000033.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000029.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000064.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000030.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000067.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000084.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000023.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000075.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000024.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000080.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000061.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000072.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000011.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000054.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000066.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000018.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000066.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000025.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000037.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000073.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000031.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000074.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000054.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000078.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000078.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000037.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000080.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000074.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000057.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000032.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000062.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000070.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000059.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000061.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000079.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000058.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000055.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000042.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000052.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000051.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000069.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000067.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000078.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000025.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000010.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000014.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000023.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000044.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000008.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000078.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000045.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000077.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000031.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000064.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000046.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000056.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000029.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000052.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000069.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000073.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000077.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000034.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000063.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000084.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000033.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000007.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000080.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000080.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000066.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000079.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000067.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000051.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000052.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000080.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000086.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000048.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000009.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000008.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000085.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000047.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000044.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000076.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000001.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000008.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000085.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000021.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000051.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000017.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000026.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000015.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000006.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000062.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000019.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000071.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000056.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000012.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000051.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000065.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000027.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000004.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000023.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000024.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000000.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000049.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000028.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000030.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000063.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000041.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000028.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000054.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000002.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000052.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000046.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000021.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000064.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000050.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000064.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000073.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000002.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000002.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000078.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000048.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000058.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000049.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000003.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000004.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000026.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000019.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000064.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000011.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000010.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000024.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000063.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000033.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/000000000034.png
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 101.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 157.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 179.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 192.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 159.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 136.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 197.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 205.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 134.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 202.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 208.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 211.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 113.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 124.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 200.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 181.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 205.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 105.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 109.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 111.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 103.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 107.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 116.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 109.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 116.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 162.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 109.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 142.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 163.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 161.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 198.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 199.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 178.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 112.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 103.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 187.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 206.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 211.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 174.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 184.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 164.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 171.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 106.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 198.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 203.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 173.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 113.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 137.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 103.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 128.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 102.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 160.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 179.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 137.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 197.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 174.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 168.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 175.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 210.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 171.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 190.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 115.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 195.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 186.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 168.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 208.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 124.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 203.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 190.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 105.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 126.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 106.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 109.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 163.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 208.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 206.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 201.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 151.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 137.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 104.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 131.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 147.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 140.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 129.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 206.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 200.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 151.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 134.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 186.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 152.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 129.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 127.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 155.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 164.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 149.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 154.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 110.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 212.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 193.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 201.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 112.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 172.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 203.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 127.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 159.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 117.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 115.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 123.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 111.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 194.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 187.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 128.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 152.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 148.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 184.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 195.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 104.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 201.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 157.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 107.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 156.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 192.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 176.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 136.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 153.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 146.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 129.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 180.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 130.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 126.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 204.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 178.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 140.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 124.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 143.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 189.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 118.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 171.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 119.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 192.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 188.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 169.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 115.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 179.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 152.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 195.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 101.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 122.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 143.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 140.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 124.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 210.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 191.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 103.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 119.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 161.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 105.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 201.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 191.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 186.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 137.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 162.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 194.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 106.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 104.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 126.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 134.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 146.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 117.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 124.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 181.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 201.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 146.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 167.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 172.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 117.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 212.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 127.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 131.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 150.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 119.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 114.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 165.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 135.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 191.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 137.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 134.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 158.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 210.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 108.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 119.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 131.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 116.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 114.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 112.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 160.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 103.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 121.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 209.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 203.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 177.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 154.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 138.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 168.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 135.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 203.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 156.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 177.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 205.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 145.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 126.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 123.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 173.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 178.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 136.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 212.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 151.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 126.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 143.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 122.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 161.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 207.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 203.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 210.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 105.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 107.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 132.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 180.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 189.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 122.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 173.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 165.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 182.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 179.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 119.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 115.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 139.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 185.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 195.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 183.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 185.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 141.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 176.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 145.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 157.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 198.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 139.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 181.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 185.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 212.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 144.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 137.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 169.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 145.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 123.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 156.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 122.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 201.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 116.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 150.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 167.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 122.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 134.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 132.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 153.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 116.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 102.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 126.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 159.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 161.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 101.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 127.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 174.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 143.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 141.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 199.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 175.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 186.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 171.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 190.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 201.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 129.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 163.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 185.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 153.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 121.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 150.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 157.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 144.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 117.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 195.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 160.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 192.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 188.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 123.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 139.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 171.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 131.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 207.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 203.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 197.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 181.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 210.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 151.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 209.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 189.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 180.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 144.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 171.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 153.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 142.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 181.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 101.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 144.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 185.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 206.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 108.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 180.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 154.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 157.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 176.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 178.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 207.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 205.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 210.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 135.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 150.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 176.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 160.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 194.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 146.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 175.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 113.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 107.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 141.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 180.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 195.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 101.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 115.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 116.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 101.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 143.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 133.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 126.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 165.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 101.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 131.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 182.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 105.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 117.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 200.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 137.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 169.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 164.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 200.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 168.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 117.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 124.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 116.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 174.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 141.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 145.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 153.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 177.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 205.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 119.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 144.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 200.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 105.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 146.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 154.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 123.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 113.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 118.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 103.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 132.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 129.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 106.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 127.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 143.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 152.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 155.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 139.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 190.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 169.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 108.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 171.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 196.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 211.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 185.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 197.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 172.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 130.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 122.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 110.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 184.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 147.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 136.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 143.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 199.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 149.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 187.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 109.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 114.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 129.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 174.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 145.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 194.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 208.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 198.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 136.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 205.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 168.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 136.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 134.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 108.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 162.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 167.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 160.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 193.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 210.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 200.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 175.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 183.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 212.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 200.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 173.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 209.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 189.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 210.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 164.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 190.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 204.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 137.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 212.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 186.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 160.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 179.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 178.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 153.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 155.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 182.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 174.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 189.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 147.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 128.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 155.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 199.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 104.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 190.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 107.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 122.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 164.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 204.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 144.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 142.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 133.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 142.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 144.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 177.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 183.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 134.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 132.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 137.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 193.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 101.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 156.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 196.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 164.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 145.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 125.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 128.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 201.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 206.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 205.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/ 137.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/101.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/186.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/188.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/130.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/142.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/184.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/191.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/105.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/197.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/198.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/154.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/202.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/200.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/156.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/151.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/160.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/202.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/183.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/202.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/121.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/133.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/164.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/168.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/149.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/107.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/187.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/151.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/202.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/148.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/167.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/119.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/142.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/107.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/121.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/210.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/109.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/185.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/142.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/212.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/103.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/118.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/180.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/145.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/200.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/193.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/167.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/203.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/134.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/102.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/105.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/117.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/111.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/106.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/111.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/116.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/131.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/151.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/204.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/167.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/167.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/113.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/120.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/131.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/195.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/104.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/139.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/204.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/150.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/129.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/140.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/155.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/126.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/133.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/147.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/168.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/192.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/163.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/128.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/106.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/155.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/132.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/109.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/125.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/212.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/105.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/198.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/104.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/143.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/130.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/150.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/197.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/122.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/175.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/167.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/165.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/117.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/180.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/187.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/151.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/155.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/189.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/198.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/145.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/153.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/205.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/114.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/194.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/137.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/143.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/123.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/195.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/119.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/112.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/169.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/147.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/187.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/131.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/185.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/182.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/204.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/156.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/167.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/182.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/180.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/146.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/138.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/208.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/190.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/115.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/111.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/155.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/110.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/121.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/139.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/198.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/161.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/190.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/130.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/146.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/162.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/136.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/178.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/184.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/107.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/148.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/162.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/139.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/151.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/116.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/116.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/182.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/136.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/161.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/161.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/164.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/117.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/103.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/114.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/189.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/139.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/147.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/137.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/174.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/184.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/111.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/212.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/136.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/174.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/167.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/169.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/111.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/193.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/160.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/212.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/114.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/209.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/194.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/132.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/211.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/186.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/154.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/200.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/183.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/151.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/159.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/195.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/103.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/132.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/203.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/115.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/102.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/123.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/188.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/167.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/181.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/185.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/179.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/127.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/124.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/113.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/193.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/131.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/122.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/133.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/122.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/194.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/184.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/126.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/173.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/178.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/194.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/148.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/206.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/141.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/164.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/135.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/149.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/152.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/139.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/144.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/106.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/161.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/154.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/140.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/127.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/108.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/157.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/126.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/154.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/206.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/126.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/162.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/212.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/175.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/125.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/180.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/135.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/151.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/110.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/163.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/207.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/151.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/160.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/175.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/159.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/212.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/101.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/191.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/185.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/143.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/110.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/204.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/112.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/208.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/176.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/165.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/143.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/108.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/103.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/128.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/175.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/157.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/107.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/138.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/137.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/192.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/175.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/101.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/191.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/202.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/173.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/109.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/190.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/127.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/133.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/207.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/157.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/145.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/177.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/173.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/183.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/166.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/200.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/162.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/123.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/141.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/197.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/145.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/180.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/118.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/205.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/160.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/137.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/169.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/156.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/147.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/111.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/106.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/198.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/147.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/160.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/117.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/147.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/174.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/104.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/115.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/129.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/194.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/176.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/129.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/105.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/161.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/200.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/116.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/104.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/106.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/110.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/147.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/154.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/205.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/118.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/139.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/149.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/181.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/180.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/102.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/118.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/131.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/173.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/211.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/208.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/194.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/207.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/203.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/195.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/183.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/211.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/176.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/172.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/159.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/176.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/157.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/110.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/180.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/128.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/128.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/158.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/136.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/105.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/208.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/187.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/152.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/155.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/189.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/125.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/198.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/158.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/130.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/155.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/133.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/167.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/111.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/161.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/155.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/122.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/128.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/165.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/147.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/159.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/126.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/172.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/148.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/160.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/191.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/198.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/151.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/133.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/168.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/141.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/189.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/161.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/213.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/193.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/206.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/104.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/180.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/154.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/181.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/117.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/192.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/124.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/101.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/126.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/151.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/206.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/105.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/144.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/132.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/161.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/149.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/150.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/125.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/113.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/183.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/149.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/141.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/195.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/193.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/113.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/117.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/122.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/156.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/174.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/128.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/152.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/109.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/153.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/107.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/125.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/121.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/109.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/198.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/148.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/116.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/101.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/132.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/106.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/152.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/184.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/142.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/111.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/113.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/118.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/125.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/101.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/123.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/173.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/171.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/131.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/129.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/209.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/203.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/176.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/146.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/155.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/171.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/150.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/122.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/138.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/104.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/208.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/113.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/112.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/188.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/168.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/173.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/113.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/208.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/110.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/110.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/181.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/183.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/210.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/149.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/193.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/149.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/195.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/139.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/168.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/167.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/116.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/195.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/174.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/157.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/208.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/115.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/170.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/140.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/115.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/135.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/107.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/107.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/207.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/209.png 
+/data/jichuang/dataset/pixart-sigma-toy-dataset/InternImgs/190.png 
