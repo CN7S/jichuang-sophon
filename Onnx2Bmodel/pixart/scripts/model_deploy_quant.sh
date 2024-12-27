@@ -1,5 +1,5 @@
 #! /bin/bash
-
+# Code for deploy a quan model.
 model_name=Pixart_embedding_layer
 test_input_path=../data/embedder_input.npz
 test_result_path=../data/embedder_output.npz
